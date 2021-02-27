@@ -1,32 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class Minimap : MonoBehaviour
 {
-    // ------------ (BUTTON) to the Bar -----------
-    public void Bar()
+    // Start is called before the first frame update
+    void Start()
     {
-        SceneManager.LoadScene("BAR");
+        
     }
 
-    // ------------ (BUTTON) to the Cafe -----------
-    public void cafe()
+    // Update is called once per frame
+    void Update()
     {
-       SceneManager.LoadScene("Cafe");
-    }
-
-// ------------ (BUTTON) to the  ---Trainstaion--------
-     public void trainstaion()
-    {
-        SceneManager.LoadScene("Trainstaion");
-    }
-
-    // ------------ (BUTTON) to the Home -----------
-     public void home()
-    {
-        SceneManager.LoadScene("Home");
+        
     }
 }
