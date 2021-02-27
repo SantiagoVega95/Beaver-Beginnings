@@ -10,5 +10,17 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Trainstaion.unity
-    guid: 78a315dcffaf4144a8099e952a7f7bbb
+    guid: e7f01e5a5c524c94e9a9b6940e257b1d
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2a12a8b94e5464c49afad968cc958d88
+  - enabled: 1
+    path: Assets/Scenes/Minimap.unity
+    guid: 32821dbfc85e338419fdd2dccad33c14
+  - enabled: 1
+    path: Assets/Scenes/Cafe.unity
+    guid: 46e58c6df614044448c35f0a56ba3c53
+  - enabled: 1
+    path: Assets/Scenes/BAR.unity
+    guid: 6927ab5509e3d28439629331fd14a832
   m_configObjects: {}
