@@ -8,7 +8,7 @@ public class mainmenu : MonoBehaviour
     // ------------ (BUTTON) Start New Game -----------
     public void StartGame()
     {
-        SceneManager.LoadScene("Trainstaion");
+        SceneManager.LoadScene("Opening Scene");
     }
 
     // ------------ (BUTTON) Exit Game -----------

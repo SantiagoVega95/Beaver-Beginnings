@@ -9,13 +9,13 @@ public class Minimap : MonoBehaviour
       // ------------ (BUTTON) trainstaion -----------
     public void trainstation()
     {
-        SceneManager.LoadScene("Trainstaion");
+        SceneManager.LoadScene("Trainstaion 1");
     }
 
       // ------------ (BUTTON) Home -----------
     public void home()
     {
-        SceneManager.LoadScene("Home");
+        SceneManager.LoadScene("Home 1");
     }
 
        // ------------ (BUTTON) Bar -----------

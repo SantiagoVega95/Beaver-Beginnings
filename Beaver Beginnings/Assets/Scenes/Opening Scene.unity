@@ -554,6 +554,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e98d287287dabd43b3b6247979059b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  t1: {fileID: 1884016817}
+  t2: {fileID: 1153385844}
+  Speechbox: {fileID: 14042422}
+  Name: {fileID: 1155376442}
 --- !u!4 &1226561477
 Transform:
   m_ObjectHideFlags: 0
