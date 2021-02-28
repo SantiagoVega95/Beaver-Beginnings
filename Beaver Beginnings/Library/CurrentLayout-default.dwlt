@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 43
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 62
+  controlID: 56
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 625
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -150,7 +150,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 67
+  controlID: 86
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 68
+  controlID: 87
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -325,7 +325,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 647
     width: 1294
     height: 352
@@ -350,14 +350,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Unity\biduff_game\Beaver-Beginnings\Beaver Beginnings
+  m_LastProjectPath: C:\Users\rmdoo\Desktop\program\git hub\Beaver-Beginnings\Beaver
+    Beginnings
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6c3c0000
-    m_LastClickedID: 15468
-    m_ExpandedIDs: 00000000663c000000ca9a3b
+    m_SelectedIDs: 1c3d0000
+    m_LastClickedID: 15644
+    m_ExpandedIDs: 00000000163d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -373,7 +374,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -385,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000663c0000
+    m_ExpandedIDs: 00000000163d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -461,7 +462,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 3215
+    x: 1295
     y: 73
     width: 624
     height: 926
@@ -499,7 +500,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 73
     width: 261
     height: 553
@@ -507,9 +508,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 363d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 62ceffff74ceffff86ceffff98ceffffaaceffffbcceffffceceffffe0cefffff6ceffff18cfffff2ccfffff52d1ffff7ad1ffff9ed1ffffe6d1ffff3ad2ffff58d2fffff8d3ffff00d4ffff14d4ffff38d4fffff8d4ffff42d5ffffd0d5ffffe4d5fffff6d5ffff08d6ffff1ad6ffff2cd6ffff3ed6ffff50d6ffffcad6ffff06dcffff24dcffff4adcffff72dcffff86dcffffaedcffffdedcfffffedcffff16ddffff80ddffffa2ddffff22deffff00dfffff8cdfffff9edfffffb2dfffff48e0ffff98e0ffffb8e0ffffe4e0ffff04e1ffffaaebffffd6ebffff48ecffff6cecffff80ecffff92ecffffa4ecffff0eedffff2aedffff7af9ffff8cf9ffff9ef9ffffb0f9ffffc2f9ffffd4f9ffffe6f9fffff8f9ffff0afaffff1cfaffff5cfbffffe84b0000f84b00000a4c0000d6530000ce550000da580000e258000014590000b8590000285c0000605c000090610000c0610000ca610000fa690000b06b00001a6c0000
+      m_ExpandedIDs: 0af0ffff1cf0ffffe6f1ffff46f2ffffa0f4ffffacf4ffff02f5ffff3cf5ffff54f7ffffe8f8fffffaf8ffffa6f9ffff2a3e0000623e0000003f00004e40000078410000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -553,7 +554,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2182
+    x: 262
     y: 73
     width: 1031
     height: 553
@@ -758,7 +759,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
+    x: 0
     y: 647
     width: 1294
     height: 352
