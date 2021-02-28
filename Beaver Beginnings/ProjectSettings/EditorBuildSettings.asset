@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gym.unity
     guid: 70246e0c1f4dd734fae6c76c5e9e0f13
+  - enabled: 1
+    path: Assets/Scenes/tobe.unity
+    guid: 77382de0836d8f342aa3b41928edb09a
   m_configObjects: {}
