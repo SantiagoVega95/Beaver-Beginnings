@@ -29,4 +29,10 @@ public class Minimap : MonoBehaviour
     {
         SceneManager.LoadScene("Cafe");
     }
+
+      // ------------ (BUTTON) GYM -----------
+    public void gym()
+    {
+        SceneManager.LoadScene("Gym");
+    }
 }
