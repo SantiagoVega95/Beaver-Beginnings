@@ -11,7 +11,10 @@ public class Minimap : MonoBehaviour
     {
         SceneManager.LoadScene("Trainstaion 1");
     }
-
+  public void Mainmenu()
+    {
+        SceneManager.LoadScene("mainmenu");
+    }
       // ------------ (BUTTON) Home -----------
     public void home()
     {
