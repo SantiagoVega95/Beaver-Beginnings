@@ -41,7 +41,7 @@ public class GymScene : MonoBehaviour
 
         if (click == 0)
         {
-            SceneManager.LoadScene("Home");
+            SceneManager.LoadScene("minimap");
         }
         if (Input.GetButtonDown("Fire1"))
         {
