@@ -451,8 +451,8 @@ MonoBehaviour:
   t2: {fileID: 0}
   t3: {fileID: 0}
   Speechbox: {fileID: 0}
-  Name: {fileID: 0}
-  Character: {fileID: 0}
+  Name: {fileID: 1183872821}
+  Character: {fileID: 736097099}
 --- !u!1 &953903542
 GameObject:
   m_ObjectHideFlags: 0
@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 1183872824}
   - component: {fileID: 1183872823}
   m_Layer: 5
-  m_Name: Speaker Name
+  m_Name: Chris
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
