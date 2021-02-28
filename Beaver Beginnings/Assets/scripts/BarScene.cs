@@ -41,6 +41,7 @@ public class BarScene : MonoBehaviour
         click = 21;
         Speechbox.SetActive(false);
         Character.SetActive(false);
+        Character2.SetActive(false);
  
     }
 

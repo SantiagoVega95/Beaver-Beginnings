@@ -1147,23 +1147,23 @@ MonoBehaviour:
   t1: {fileID: 2094569133}
   t2: {fileID: 1457189565}
   t3: {fileID: 2023544512}
-  t4: {fileID: 0}
-  t5: {fileID: 0}
-  t6: {fileID: 0}
-  t7: {fileID: 0}
-  t8: {fileID: 0}
-  t9: {fileID: 0}
-  t10: {fileID: 0}
-  t11: {fileID: 0}
-  t12: {fileID: 0}
-  t13: {fileID: 0}
-  t14: {fileID: 0}
-  t15: {fileID: 0}
-  t16: {fileID: 0}
-  t17: {fileID: 0}
-  t18: {fileID: 0}
-  t19: {fileID: 0}
-  t20: {fileID: 0}
+  t4: {fileID: 627118976}
+  t5: {fileID: 1247219991}
+  t6: {fileID: 1557939056}
+  t7: {fileID: 811799377}
+  t8: {fileID: 1764130115}
+  t9: {fileID: 1482112270}
+  t10: {fileID: 2038054215}
+  t11: {fileID: 1095029402}
+  t12: {fileID: 2053555877}
+  t13: {fileID: 553178829}
+  t14: {fileID: 1568911242}
+  t15: {fileID: 962171058}
+  t16: {fileID: 246777089}
+  t17: {fileID: 1989282038}
+  t18: {fileID: 1281385294}
+  t19: {fileID: 1383176771}
+  t20: {fileID: 2104065222}
   Speechbox: {fileID: 1621293663}
   Name: {fileID: 1456115937}
   CharacterName: {fileID: 1763963194}
